@@ -229,3 +229,6 @@ header {
     text-decoration: underline;
 }
 
+main {
+    flex:1;
+}
